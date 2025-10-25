@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "shadcn": {
+      "command": "npx",
+      "args": [
+        "shadcn@latest",
+        "mcp"
+      ]
+    },
+    "instant": {
+      "url": "https://mcp.instantdb.com/mcp"
+    }
+  }
+}
